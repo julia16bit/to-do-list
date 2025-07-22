@@ -34,8 +34,7 @@ Os usuários podem:
 ```bash
 ./mvnw spring-boot:run
 ```
-A aplicação estará disponível em:
-📍 http://localhost:8080
+A aplicação estará disponível em 📍 http://localhost:8080
 
 ### Docker:
 ```bash
